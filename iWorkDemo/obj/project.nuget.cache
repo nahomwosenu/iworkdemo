@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfBAyiYn+T3wl8EXxNhnNNbKDcCSiJGjLCDCUjo4eKKp5wvETB+kkOn8Wtp1P1hKpTwHMjBJlMx+w9AcdDbh+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nahom\\source\\repos\\iWorkDemo\\iWorkDemo\\iWorkDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nahom\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\nahom\\.nuget\\packages\\mysqlconnector\\2.1.13\\mysqlconnector.2.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
